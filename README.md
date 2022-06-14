@@ -1,5 +1,5 @@
 # CV_CVAE
-Классическая задача в области CV - CVAE on MNIST dataset с использованием билиотеки PyTorch
+Классическая задача в области CV - CVAE on MNIST dataset.
 
 ## Использованные библиотеки
 - PyTorch
